@@ -1,16 +1,20 @@
-# image_uploader
+# Image Uploader App
 
-A new Flutter project.
+A flutter based app that uploads any image from the device's gallery to a server using the POST request
 
-## Getting Started
+## Feautures
 
-This project is a starting point for a Flutter application.
+* Users can add any image from the gallery
+* Neat UI design
+* Uses POST request to upload image
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots (Android)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="screenshots/s1.png" height=400em> <img src="screenshots/s2.png" height=400em>
+<img src="screenshots/s3.png" height=400em> 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## To run this app
+* Replace the URL in myhomepage.dart with your API endpoint.
+* Run the app with <b>flutter run</b>
